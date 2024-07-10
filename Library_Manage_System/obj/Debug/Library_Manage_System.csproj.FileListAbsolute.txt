@@ -1,0 +1,17 @@
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\bin\Debug\Library_Manage_System.exe.config
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\bin\Debug\Library_Manage_System.exe
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\bin\Debug\Library_Manage_System.pdb
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.csproj.AssemblyReference.cache
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.Properties.Resources.resources
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.csproj.GenerateResource.cache
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.csproj.CoreCompileInputs.cache
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.exe
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.pdb
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.student.resources
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\bin\Debug\StudentDB.mdf
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\bin\Debug\StudentDB_log.ldf
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.Book.resources
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.Borrowing.resources
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.Librarian.resources
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.aBOUT.resources
+F:\PROJETS_ALL\Library_Manage_System\Library_Manage_System\obj\Debug\Library_Manage_System.Home.resources

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BorrowDataClasses1">
+  <DataContextMoniker Name="/BorrowDataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="8d8dbe05-7c9d-4b97-ba6b-4f44eb11cd79" absoluteBounds="1.25, 1.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BorrowDataClasses1DataContext/BorroeTb" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5abd66c4-ff81-431b-897f-2e02c7d535ee" absoluteBounds="1.2650000000000001, 1.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
